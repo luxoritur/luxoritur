@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a student passionate about programming and so
 
 - **Databases:**
   - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
-  - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) **PostgreSQL**
+  - ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/2b/Postgresql_elephant.svg) **PostgreSQL**
 
 - **Linux and Free Software:**
   - ![Linux](https://img.icons8.com/color/48/000000/linux.png) **Linux**
